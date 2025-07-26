@@ -72,8 +72,8 @@
 ---
 
 ## 🌐 **Let’s Connect**  
-💼 [**WafyGoods**](https://WafyGoods.web.app)  
-📧 **WafyGoods@gmail.com**  
+💼 [**theshammi**](https://theshammi.web.app)  
+📧 **i.am.shamweel@gmail.com**  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=theshammi.theshammi)
 
 ---
