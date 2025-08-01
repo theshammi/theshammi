@@ -36,9 +36,6 @@
 - **[FaazTech](https://faaztech.vercel.app)** – Next.js 15  
   Modern **e-commerce store** with product management & secure checkout.  
 
-- **[WafyGoods](https://WafyGoods.web.app)** – Next.js 15 & Firebase  
-  Complete **e-commerce ecosystem**: real-time order tracking, Razorpay, Shiprocket, admin panel.  
-
 - **[Lush Weddings](https://lushweddings.web.app)** – React.js  
   Elegant wedding services website with interactive components & clean UI.  
 
